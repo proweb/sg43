@@ -1,3 +1,2 @@
 User-agent: *
-Disallow: /sendform
-Host: sg43.ru
+Host: https://sg43.ru
